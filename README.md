@@ -8,7 +8,7 @@
    - Right Click `Roblox_Account_Manager.zip` and select "Extract" option.
      
 3. Run the Application  
-   - Once the file has finished downloading, locate it in your Downloads folder.  
+   - Once the file has finished extracting, locate it in your Downloads folder.  
    - Double-click `Roblox_Account_Manager.exe` to run the program.  
 
 That’s it! The Roblox Account Manager will launch, and you're ready to start using it.
